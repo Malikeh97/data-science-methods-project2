@@ -66,7 +66,7 @@ Step 3. Open `STA-2453_P2.Rmd` in RStudio and knit the file (should take no more
 - Please view the dashboard in **full screen** for optimal display.
 
 
-## datasets Directory
+## File Directory
 -  `Ministry_of_Health_Public_Health_Unit_Boundary.geojson` - latitude and longitude coordinates used to specify the map outline of PHUs within Ontario to generate Page 1 map.
 - `cases_by_status_and_phu.csv` - time series data that includes number of active cases, resolved cases, and deaths for all PHUs. Used for Page 1 map.
 - `socioeconomic_phu.csv`- dataset of PHU name and their corresponding median after-tax household income in 2015.
