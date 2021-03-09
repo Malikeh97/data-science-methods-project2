@@ -9,11 +9,11 @@ Team Members:
 
 ### The Dashboard
 **Page 1: Case status and testing volumes in Ontario**
-![Dashboard Page 1 Part 1](demo/demo1.gif)
-![Dashboard Page 1 Part 2](demo/demo2.gif)
+![Dashboard Page 1 Part 1](demo/demo11.gif)
+![Dashboard Page 1 Part 2](demo/demo22.gif)
 
 **Page 2: Vaccination status in Canada**
-![Dashboard Page 2](demo/demo3.gif)
+![Dashboard Page 2](demo/demo33.gif)
 
 
 ## Overview
